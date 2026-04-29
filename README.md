@@ -13,9 +13,7 @@
 - 🌍 Living the **Digital Nomad** lifestyle  
 - 🤖 Passionate about **AI, ML & Scalable Systems**  
 - 🧩 Building **full-stack intelligent applications**  
-- 🚀 Focused on **impact-driven engineering**  
-- ✈️ Exploring the world while shipping products  
-
+ 
 ---
 
 ## 🌐 Connect With Me

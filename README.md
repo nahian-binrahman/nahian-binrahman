@@ -33,7 +33,10 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,sql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-sql-database-icon.png" height="52"/>
+</p>
 </p>
 
 ### 🌐 Web & Frameworks
@@ -75,3 +78,40 @@
 ⚡ Develop AI agents & integrations
 ⚡ Build scalable backend & full-stack systems
 ⚡ Ship fast, iterate faster
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=nahian-binrahman&theme=radical&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=nahian-binrahman&theme=radical&hide_border=true" height="160" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nahian-binrahman&theme=radical&hide_border=true&layout=compact" height="160" alt="Top Languages"/>
+</p>
+
+---
+
+## 🧭 Current Focus
+
+- 🧠 Designing and building **advanced AI systems** and **LLM integrations**
+- 🌐 Creating **high-performance full-stack applications**
+- 📊 Driving decisions through **data-focused product development**
+- 🚀 Growing a **personal brand** and sharing **tech content**
+
+---
+
+## 💡 Philosophy
+
+<p align="center">
+  <em>"Build things that matter. Scale what works. Explore endlessly."</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nahian-binrahman&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+</p>

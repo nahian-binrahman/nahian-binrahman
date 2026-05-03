@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm Nahian</h1>
-<h3 align="center">🚀 Full-Stack AI Engineer • 🌍 Digital Nomad • ✈️ Building While Traveling</h3>
+<h3 align="center">🚀 Full-Stack AI Engineer • 🌍 Digital Nomad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Building+AI+Products+for+the+Future;Full-Stack+Gen+AI+Engineer;Turning+Ideas+into+Scalable+Systems;Code.+Travel.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Building+AI+Products+for+the+Future;Full-Stack+Gen+AI+Engineer;LLM+Apps+%26+AI+Workflows;AI+Agents+%26+System+Integration" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 
 - 🌍 Living the **Digital Nomad** lifestyle  
 - 🤖 Passionate about **AI, ML & Scalable Systems**  
-- 🧩 Building **full-stack intelligent applications**  
- 
+- 🧠 Building **LLM-powered apps, AI workflows, and intelligent systems**  
+
 ---
 
 ## 🌐 Connect With Me
@@ -33,7 +33,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,sql" />
 </p>
 
 ### 🌐 Web & Frameworks
@@ -70,44 +70,8 @@
 ## 🚀 What I Do
 
 ```text
-⚡ Build AI-powered applications
-⚡ Design scalable backend systems
-⚡ Develop modern frontend experiences
-⚡ Work across data pipelines & ML models
+⚡ Build LLM-powered applications
+⚡ Design AI workflows & automation systems
+⚡ Develop AI agents & integrations
+⚡ Build scalable backend & full-stack systems
 ⚡ Ship fast, iterate faster
-
----
-```
-##  📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nahian-binrahman&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=nahian-binrahman&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nahian-binrahman&theme=radical&hide_border=true&layout=compact" height="160"/>
-</p>
-
----
-
-## 🧭 Current Focus
-
-- 🧠 Advanced AI systems & LLM integrations  
-- 🌐 Building high-performance full-stack apps  
-- 📊 Data-driven product development  
-- 🚀 Personal brand & tech content creation  
-
----
-
-## 💡 Philosophy
-
-> *"Build things that matter. Scale what works. Explore endlessly."*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahian-binrahman&label=Profile+Views&color=brightgreen&style=flat" />
-</p>
-
----
